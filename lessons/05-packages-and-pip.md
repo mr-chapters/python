@@ -1,5 +1,7 @@
 # Lesson 5: Third-party packages and pip
 
+![Python project using the standard library, your modules, and installed packages](../assets/python-modules-hero.svg)
+
 Python's standard library is useful, but developers also share packages that add more features. **pip** is the common installer for Python packages.
 
 ## Module, package, and pip
