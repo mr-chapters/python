@@ -1,5 +1,7 @@
 # Lesson 6: Debugging modules and reading documentation
 
+![A visual map of how modules fit into a Python project](../assets/module-map.svg)
+
 Even experienced developers look things up. Good programmers learn how to investigate a problem instead of guessing.
 
 ## Ask Python for help
