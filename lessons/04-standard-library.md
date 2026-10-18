@@ -1,5 +1,7 @@
 # Lesson 4: The Python standard library
 
+![Python standard-library toolbox showing common modules and their jobs](../assets/standard-library-toolbox.svg)
+
 The **standard library** is a collection of modules that comes with Python. Many useful tools are available without installing anything with pip.
 
 ## Modules worth learning
