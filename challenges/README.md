@@ -1,5 +1,7 @@
 # Practice Challenges
 
+![Python module map to help you plan modular challenge projects](../assets/module-map.svg)
+
 Try these after the matching lessons. Start with a small working version, then add error handling and tests.
 
 ## Beginner
