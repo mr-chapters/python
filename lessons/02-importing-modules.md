@@ -1,5 +1,7 @@
 # Lesson 2: Importing modules
 
+![Four steps that explain what happens during an import](../assets/import-flow.svg)
+
 An **import** tells Python that you want to use code defined somewhere else.
 
 ## Pattern 1: import the whole module
