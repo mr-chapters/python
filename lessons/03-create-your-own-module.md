@@ -1,5 +1,7 @@
 # Lesson 3: Create your own modules and packages
 
+![A main program divided into focused, reusable modules](../assets/module-map.svg)
+
 Once you understand imports, you can design your own reusable code.
 
 ## Build a tiny calculator module
