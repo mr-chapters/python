@@ -1,5 +1,7 @@
 # Project: File Organiser
 
+![Diagram showing files being sorted into folders by extension](../assets/file-organiser-flow.svg)
+
 This project demonstrates how modules help automate a repetitive task. The program groups files in a folder by file extension.
 
 **Safety first:** test on a temporary folder containing copies of files. The example moves files, so understand the destination before running it on important data.
