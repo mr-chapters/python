@@ -2,6 +2,11 @@
 
 A practical, beginner-friendly course about Python modules, packages, and libraries. Learn the ideas, inspect diagrams, write small programs, and finish with real projects.
 
+![Python Modules Academy — modules connected to a main program](assets/python-modules-hero.svg)
+
+![Diagram showing a main Python program using reusable modules](assets/module-map.svg)
+
+
 > **Goal:** understand how Python code is organised and learn to choose the right module for a task—not just copy code without understanding it.
 
 ## Start here
