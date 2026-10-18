@@ -1,5 +1,7 @@
 # Project: Nearby Wi-Fi Network Viewer
 
+![Diagram showing Python asking the operating system to list visible Wi-Fi networks](../assets/wifi-viewer-flow.svg)
+
 Build a small Python tool that asks your operating system to list Wi-Fi networks visible to your own device. This project demonstrates modules, subprocesses, platform differences, and error handling.
 
 **Scope:** this is a read-only learning project. It does not connect to networks, reveal Wi-Fi passwords, bypass security, deauthenticate devices, or access other people's systems. Only inspect networks you are authorised to observe.
