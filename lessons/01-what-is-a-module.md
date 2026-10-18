@@ -1,5 +1,7 @@
 # Lesson 1: What is a Python module?
 
+![Visual map of a main program connected to reusable Python modules](../assets/module-map.svg)
+
 ## The big idea
 
 A **module** is a Python file that contains code you can reuse. It may contain functions, variables, classes, and other instructions.
